@@ -100,3 +100,31 @@ Aprendí a calcular las direcciones iniciales y finales de un segmento de memori
 
 Debo mejorar la precisión al realizar las multiplicaciones y sumas en hexadecimal, especialmente al llevar valores de una posición a otra. También necesito revisar que las direcciones iniciales y finales estén correctamente calculadas y escritas. Por último, debo practicar más ejercicios de direccionamiento de memoria para comprender mejor la relación entre los registros de segmento, los apuntadores y las direcciones físicas.
 
+---
+
+# 4. Questions and Problems Chapter 2 
+
+## Descripción de la actividad 
+
+Resolución de ejercicios prácticos sobre la arquitectura de microprocesadores, cálculo de direcciones de memoria en modo real y el uso de registros.
+
+## Evidencia
+![Imagen](Actividad.jpeg)
+![Imagen](Actividad1.jpeg)
+![Imagen](Actividad2.jpeg)
+![Imagen](Actividad3.jpeg)
+![Imagen](Actividad4.jpeg)
+![Imagen](Actividad5.jpeg)
+![Imagen](Actividad6.jpeg)
+![Imagen](Actividad7.jpeg)
+
+## ¿Qué aprendí?
+
+A calcular direcciones físicas de memoria usando registros de segmento y desplazamientos, a identificar las funciones de los registros visibles y las banderas del microprocesador, y ha determinar los rangos iniciales y finales de los segmentos de memoria.
+
+## Errores y aspectos por mejorar
+
+En mejorar la precisión al realizar sumas en sistema hexadecimal, y probablemente en mantener mayor orden y limpieza al desarrollar los procedimientos en las operaciones aritméticas.
+
+
+

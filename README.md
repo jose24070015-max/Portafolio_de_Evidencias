@@ -31,13 +31,14 @@ El presente portafolio de evidencias tiene como objetivo demostrar de manera org
 # Índice
 
 1. [Rúbrica del Portafolio](#1-portafolio-de-evidencias-unidad1)
-2. [Rúbrica Plenaria](#2-plenary-mode3-direct-addressing)
-3. [Ejercicios de Clase Microproccessor](#3-ejercicios-realizados-en-clase)
-4. [Questions and Problems Chapter 2](#4-)
-5. [Ejercicios del Modo de Direccionamiento.](#5-ejercicios--realizados-en-clase)
-6. [Questions and Problems Chapter 3](#6-)
-7. [Reflexión General de la Unidad 2](#reflexión-general-de-la-unidad2)
-8. [Conclusión](#conclusión) 
+2. [Reflexión General de la Unidad 1](#2-reflexión-general-de-la-unidad1)
+3. [Rúbrica Plenaria](#3-plenary-mode3-direct-addressing)
+4. [Ejercicios de Clase Microproccessor](#4-ejercicios-realizados-en-clase)
+5. [Questions and Problems Chapter 2](#5-actividad)
+6. [Ejercicios del Modo de Direccionamiento.](#6-ejercicios--realizados-en-clase)
+7. [Questions and Problems Chapter 3](#7-actividad)
+8. [Reflexión General de la Unidad 2](#8-reflexión-general-de-la-unidad2)
+9. [Conclusión](#9-conclusión) 
 
 ---
 
@@ -58,14 +59,26 @@ Aprendí que un portafolio de evidencias no consiste únicamente en reunir las a
 Uno de los aspectos que debo mejorar es profundizar en mis reflexiones, explicando con mayor claridad qué conocimientos adquirí y cómo puedo aplicarlos. También necesito identificar errores específicos en mis actividades y proponer soluciones concretas, en lugar de mencionar únicamente aspectos generales. 
 
 ---
+# 2. Reflexión General de la Unidad 1 
 
-# 2. Rúbrica de Exposición Mode 3 Direct Addressing 
+Esta primera unidad de Arquitectura de Computadoras me permitió pasar de una visión más difícil de los conceptos a una comprensión más sólida y conectada de cómo realmente funcionan las computadoras por dentro, comencé con la prueba diagnóstica, que me ayudó a identificar lo que ya recordaba y, sobre todo, lo que aún no tenía claro (historia de los procesadores, transistores, Ley de Moore y registros). 
+
+Esa actividad me sirvió como punto de partida para enfocarme mejor en los temas que venían, después, la programación de la IAS me acercó al nivel más bajo de ejecución de instrucciones, plantear la lógica para comparar dos números me hizo ver de forma concreta cómo la máquina lee, procesa y escribe datos en memoria y fue un ejercicio que me obligó a pensar de manera secuencial y precisa.
+
+El mapa conceptual de los modelos de arquitectura (Von Neumann, segmentada y multiprocesamiento) me ayudó a organizar visualmente las relaciones entre CPU, unidad de control, ALU, registros, memoria y entradas/salidas ya que al tener que estructurar las ideas y señalar ventajas y desventajas de cada modelo, pues pude pasar de conocer conceptos aislados a entender cómo se conectan, la práctica con la memoria RAM 6116 fue montar el circuito en protoboard, cometer errores por seguir solo fotos y no el diagrama, dañar componentes y finalmente lograr que funcionara me enseñó la diferencia entre “saber” algo en teoría y poder hacerlo en la realidad. 
+
+Ahí aprendí la importancia de leer el datasheet, seguir el diagrama lógico y verificar cada conexión antes de energizar el circuito.
+
+---
+
+# 3. Rúbrica de Exposición Mode 3 Direct Addressing 
 
 ## Descripción de la actividad
 
 En esta actividad se realizó una plenaria sobre el tema “Direct Addressing on Mode 3”, correspondiente a la Unidad 2 de la asignatura Arquitectura de Computadoras. Durante la exposición se abordó el funcionamiento del direccionamiento directo en el Modo 3, con el propósito de comprender cómo se utiliza para acceder a los datos en una instrucción. La actividad fue evaluada mediante una rúbrica que consideró el dominio del tema, la organización de la información, la expresión oral, el lenguaje corporal y el uso de apoyos visuales.
 
 ## Evidencia 
+![Actividad](Presentación.pdf)
 ![Rúbrica](RubricaPlen.jpeg)
 
 ## ¿Qué aprendí?
@@ -78,7 +91,7 @@ Debo continuar mejorando mi seguridad al hablar frente al grupo y procurar que l
 
 ---
 
-# 3. Ejercicios de Clase Microproccesor
+# 4. Ejercicios de Clase Microproccesor
 
 ## Descripción de la actividad
 
@@ -102,7 +115,7 @@ Debo mejorar la precisión al realizar las multiplicaciones y sumas en hexadecim
 
 ---
 
-# 4. Questions and Problems Chapter 2 
+# 5. Questions and Problems Chapter 2 
 
 ## Descripción de la actividad 
 
@@ -128,7 +141,7 @@ En mejorar la precisión al realizar sumas en sistema hexadecimal, y probablemen
 
 ---
 
-# 5. Ejercicios de Modo de Direccionamiento
+# 6. Ejercicios de Modo de Direccionamiento
 
 ## Descripción de la actividad 
 
@@ -151,5 +164,54 @@ Tuve dificultad para identificar rápidamente cuál era el origen y cuál el des
 
 Para mejorar, necesito practicar más con ejemplos variados hasta poder reconocer de forma automática el tipo de direccionamiento que se está utilizando y entender con mayor claridad la utilidad práctica de cada modo en diferentes situaciones.
 
+---
 
+# 7. Questions and Problems Chapter 3 
 
+## Descripción de la actividad 
+La actividad consistió en resolver una serie de preguntas y problemas relacionados con la instrucción MOV, los registros del procesador y los modos de direccionamiento. Se revisaron los registros de 8, 16, 32 y 64 bits, los registros de segmento, las restricciones de la instrucción MOV, el uso de datos inmediatos, las directivas del ensamblador como .MODEL TINY, .CODE, .EXIT y .STARTUP, el concepto de etiqueta, el desplazamiento, el uso de corchetes y los operadores PTR. También se trabajó con ejemplos de cálculo de direcciones de memoria en modo real y se identificaron instrucciones incorrectas o inválidas.
+
+## Evidencia
+![Imagen](Hoja.jpeg)
+![Imagen](Hoja1.jpeg)
+![Imagen](Hoja2.jpeg)
+![Imagen](Hoja3.jpeg)
+![Imagen](Hoja4.jpeg)
+![Imagen](Hoja5.jpeg)
+![Imagen](Hoja6.jpeg)
+![Imagen](Hoja7.jpeg)
+![Imagen](Hoja8.jpeg)
+![Imagen](Hoja9.jpeg)
+![Imagen](Hoja10.jpeg)
+![Imagen](Hoja11.jpeg)
+![Imagen](Hoja12.jpeg)
+![Imagen](Hoja13.jpeg)
+
+## ¿Qué aprendí?
+
+Comprendí la diferencia entre los registros de 8, 16, 32 y 64 bits, así como el papel de los registros de segmento, identifiqué las restricciones más comunes de la instrucción MOV, como no poder transferir directamente entre dos posiciones de memoria o entre registros de distinto tamaño. 
+
+También aprendí el significado de las principales directivas del ensamblador, el uso de etiquetas, el concepto de desplazamiento y la forma en que se indica el tamaño de un operando de memoria con los operadores BYTE PTR, WORD PTR, DWORD PTR y QWORD PTR. 
+
+Finalmente, entendí la diferencia entre cargar el contenido de una variable y cargar únicamente su dirección (OFFSET).
+
+## Errores y aspectos por mejorar
+
+Al principio me costó identificar con rapidez cuándo una instrucción MOV era inválida por diferencia de tamaño o por intentar transferir entre dos operandos de memoria. También tuve dificultad para distinguir claramente entre el uso de un registro base y un registro índice en los modos más complejos.
+
+Para mejorar, necesito practicar más con ejemplos de instrucciones incorrectas hasta reconocer de inmediato el tipo de error, y reforzar el manejo de los modos de direccionamiento que combinan base, índice y desplazamiento para poder aplicarlos con mayor seguridad.
+
+---
+
+# Reflexión General de la Unidad 2
+
+Esta unidad representó un paso clave para entender cómo opera realmente el microprocesador por dentro. Trabajar con el cálculo de direcciones de memoria en hexadecimal, los registros de segmento y las operaciones con la instrucción MOV me exigió mucha más precisión y atención al detalle. Asimismo, preparar la exposición sobre direccionamiento directo y resolver los ejercicios teóricas me ayudó a comprender las reglas estrictas del lenguaje ensamblador, la compatibilidad de tamaños de datos y la importancia de estructurar correctamente las ideas antes de programar o explicar un tema técnico.
+
+---
+
+# Conclusión
+El desarrollo de este portafolio de evidencias de la Unidad 2 permitió evaluar de forma integral el aprendizaje adquirido sobre la arquitectura de microprocesadores, la gestión de memoria y los modos de direccionamiento, a través de las diferentes actividades desde exposiciones plenarias hasta la resolución de ejercicios prácticos.
+
+Como resultado de este proceso, no solo se fortaleció la capacidad técnica para analizar instrucciones y calcular direcciones de memoria, sino que también se puede reconocer las dificultades iniciales con el cálculo hexadecimal y la identificación de operandos inválidos permitió establecer estrategias de mejora. 
+
+---

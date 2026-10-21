@@ -76,4 +76,27 @@ Aprendí la importancia de comprender el funcionamiento del direccionamiento dir
 
 Debo continuar mejorando mi seguridad al hablar frente al grupo y procurar que la explicación de los conceptos técnicos sea clara y precisa. También es importante organizar la información de la presentación con una introducción, un desarrollo y un cierre bien definidos. Como aspecto adicional, debo revisar la ortografía de las diapositivas, practicar la pronunciación de los términos técnicos y administrar mejor el tiempo para explicar los puntos más importantes sin apresurar la exposición.
 
+---
+
+# 3. Ejercicios de Clase Microproccesor
+
+## Descripción de la actividad
+
+En esta actividad se realizaron ejercicios en clase sobre el direccionamiento de memoria en hexadecimal, utilizando el registro de segmento (CS) para calcular las direcciones iniciales y finales de los segmentos. 
+
+También se practicaron operaciones de multiplicación por 10H y sumas en hexadecimal para determinar los rangos de direcciones de memoria.
+
+## Evidencia
+
+![Imagen](Imagen.jpeg)
+![Imagen](Imagen1.jpeg)
+![Imagen](Imagen2.jpeg)
+
+## ¿Qué aprendí?
+
+Aprendí a calcular las direcciones iniciales y finales de un segmento de memoria mediante operaciones en hexadecimal. Comprendí que para obtener la dirección inicial se multiplica el valor del registro CS por 10H, mientras que para determinar la dirección final se suma FFFFH. También reforcé mis conocimientos sobre el sistema hexadecimal, sus dígitos del 0 al 9 y de A a F, y la importancia de realizar correctamente las operaciones para obtener direcciones de memoria.
+
+## Errores y aspectos por mejorar
+
+Debo mejorar la precisión al realizar las multiplicaciones y sumas en hexadecimal, especialmente al llevar valores de una posición a otra. También necesito revisar que las direcciones iniciales y finales estén correctamente calculadas y escritas. Por último, debo practicar más ejercicios de direccionamiento de memoria para comprender mejor la relación entre los registros de segmento, los apuntadores y las direcciones físicas.
 

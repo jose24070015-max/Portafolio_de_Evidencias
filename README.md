@@ -57,5 +57,23 @@ Aprendí que un portafolio de evidencias no consiste únicamente en reunir las a
 
 Uno de los aspectos que debo mejorar es profundizar en mis reflexiones, explicando con mayor claridad qué conocimientos adquirí y cómo puedo aplicarlos. También necesito identificar errores específicos en mis actividades y proponer soluciones concretas, en lugar de mencionar únicamente aspectos generales. 
 
+---
+
+# 2. Rúbrica de Exposición Mode 3 Direct Addressing 
+
+## Descripción de la actividad
+
+En esta actividad se realizó una plenaria sobre el tema “Direct Addressing on Mode 3”, correspondiente a la Unidad 2 de la asignatura Arquitectura de Computadoras. Durante la exposición se abordó el funcionamiento del direccionamiento directo en el Modo 3, con el propósito de comprender cómo se utiliza para acceder a los datos en una instrucción. La actividad fue evaluada mediante una rúbrica que consideró el dominio del tema, la organización de la información, la expresión oral, el lenguaje corporal y el uso de apoyos visuales.
+
+## Evidencia 
+![Rúbrica](RubricaPlen.jepg)
+
+## ¿Qué aprendí?
+
+Aprendí la importancia de comprender el funcionamiento del direccionamiento directo y su relación con las instrucciones del procesador. Además, mediante la plenaria, pude reforzar mis conocimientos sobre el tema y reconocer la importancia de explicar la información de manera ordenada y comprensible. También comprendí que, al presentar un tema frente al grupo, no basta con conocer la información, sino que es necesario comunicarla con claridad, mantener el contacto visual y utilizar apoyos visuales que faciliten la comprensión.
+
+## Errores y aspectos por mejorar
+
+Debo continuar mejorando mi seguridad al hablar frente al grupo y procurar que la explicación de los conceptos técnicos sea clara y precisa. También es importante organizar la información de la presentación con una introducción, un desarrollo y un cierre bien definidos. Como aspecto adicional, debo revisar la ortografía de las diapositivas, practicar la pronunciación de los términos técnicos y administrar mejor el tiempo para explicar los puntos más importantes sin apresurar la exposición.
 
 

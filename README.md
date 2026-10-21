@@ -124,7 +124,32 @@ A calcular direcciones físicas de memoria usando registros de segmento y despla
 
 ## Errores y aspectos por mejorar
 
-En mejorar la precisión al realizar sumas en sistema hexadecimal, y probablemente en mantener mayor orden y limpieza al desarrollar los procedimientos en las operaciones aritméticas.
+En mejorar la precisión al realizar sumas en sistema hexadecimal, y probablemente en mantener mayor orden y limpieza al desarrollar los procedimientos en las operaciones.
+
+---
+
+# 5. Ejercicios de Modo de Direccionamiento
+
+## Descripción de la actividad 
+
+La actividad se centró en el estudio del Capítulo 3 sobre modos de direccionamiento. Se analizó la instrucción MOV y las distintas formas en que se puede indicar el origen y el destino de los datos, se checaron los modos de direccionamiento por registro, inmediato, directo, indirecto por registro, base más índice, relativo a registro, base relativa de índice y escalado. También se observó la diferencia entre transferencias de 8 bits y de 16 bits, así como el uso de corchetes para indicar direcciones de memoria.
+
+## Evidencia
+![Imagen](Act.jpeg)
+![Imagen](Act1.jpeg)
+![Imagen](Act2.jpeg)
+
+## ¿Qué aprendí?
+
+Aprendí que la instrucción MOV realiza una copia de datos del origen hacia el destino de igual forma comprendí que existen diferentes modos de direccionamiento que permiten acceder a la información de distintas maneras: a través de registros, con datos inmediatos, de forma directa en memoria o mediante combinaciones de registros, índices y desplazamientos, e identifiqué que algunos modos son más simples y otros más flexibles para trabajar con arreglos o estructuras en memoria. 
+
+También reconocí la importancia de distinguir el tamaño de los datos que se transfieren.
+
+## Errores y aspectos por mejorar
+
+Tuve dificultad para identificar rápidamente cuál era el origen y cuál el destino en instrucciones más complejas.
+
+Para mejorar, necesito practicar más con ejemplos variados hasta poder reconocer de forma automática el tipo de direccionamiento que se está utilizando y entender con mayor claridad la utilidad práctica de cada modo en diferentes situaciones.
 
 
 

@@ -66,7 +66,7 @@ Uno de los aspectos que debo mejorar es profundizar en mis reflexiones, explican
 En esta actividad se realizó una plenaria sobre el tema “Direct Addressing on Mode 3”, correspondiente a la Unidad 2 de la asignatura Arquitectura de Computadoras. Durante la exposición se abordó el funcionamiento del direccionamiento directo en el Modo 3, con el propósito de comprender cómo se utiliza para acceder a los datos en una instrucción. La actividad fue evaluada mediante una rúbrica que consideró el dominio del tema, la organización de la información, la expresión oral, el lenguaje corporal y el uso de apoyos visuales.
 
 ## Evidencia 
-![Rúbrica](RubricaPlen.jepg)
+![Rúbrica](RubricaPlen.jpeg)
 
 ## ¿Qué aprendí?
 
